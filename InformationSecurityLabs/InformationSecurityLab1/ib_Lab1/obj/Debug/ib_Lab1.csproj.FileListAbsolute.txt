@@ -1,0 +1,7 @@
+C:\Users\misha\source\repos\ib_Lab1\ib_Lab1\bin\Debug\ib_Lab1.exe.config
+C:\Users\misha\source\repos\ib_Lab1\ib_Lab1\bin\Debug\ib_Lab1.exe
+C:\Users\misha\source\repos\ib_Lab1\ib_Lab1\bin\Debug\ib_Lab1.pdb
+C:\Users\misha\source\repos\ib_Lab1\ib_Lab1\obj\Debug\ib_Lab1.csprojAssemblyReference.cache
+C:\Users\misha\source\repos\ib_Lab1\ib_Lab1\obj\Debug\ib_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\ib_Lab1\ib_Lab1\obj\Debug\ib_Lab1.exe
+C:\Users\misha\source\repos\ib_Lab1\ib_Lab1\obj\Debug\ib_Lab1.pdb
